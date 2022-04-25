@@ -4,6 +4,8 @@ Olá, bem-vindo ao meu livro de receitas! :wave:
 
 - Strogonoff de Frango; :chicken: 
 
+- Pavê; 
+
 - Arroz a grega; :rice:
 
 - Feijão tropeiro; :shallow_pan_of_food:
